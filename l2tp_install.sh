@@ -4,7 +4,7 @@ export PATH
 #=======================================================================#
 #   System Supported:  CentOS 6+ / Debian 7+ / Ubuntu 12+               #
 #   Description: L2TP VPN Auto Installer                                #
-#   Author: Zhang shuo shuo	                                            #
+#   Author: Yang	                                            #
 #   Intro:  https://qq008.cn/		                                    #
 #=======================================================================#
 cur_dir=`pwd`
